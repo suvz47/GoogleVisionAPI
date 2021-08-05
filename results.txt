@@ -1,0 +1,7 @@
+Analyzing Local Images...
+image1 : Cat,Dog,Carnivore,Wood,Comfort,Fawn,Companion dog,Whiskers,Dog breed,Flooring
+image2 : Food,Outerwear,Green,Selling,Natural foods,Whole food,Customer,Market,Retail,Convenience store
+
+Analyzing Image from URLs..
+image1 : Tire,Wheel,Car,Vehicle,Motor vehicle,Infrastructure,Asphalt,Automotive design,Vehicle registration plate,Crowd
+image2 : Footwear,Dog,Shorts,Carnivore,Plant,Dog breed,Tree,Fawn,Companion dog,Chair
