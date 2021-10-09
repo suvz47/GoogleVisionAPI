@@ -1,3 +1,9 @@
+<div align="center">
+
+[![][logo-url]]
+
+</div>
+
 # GoogleVisionAPI
 Image Analytics with Google Vision API
 
@@ -10,3 +16,12 @@ Image Analytics with Google Vision API
 4. for local images, place the images in 'images' folder and mention all the image names in config.ini
 5. for image urls, mention all the urls in config.ini
 6. run visioncode.py and the results are printed both in console and also written to results.txt file
+
+<div align="center">
+  
+⊂(◉‿◉)つ
+
+</div>
+
+
+[logo-url]: https://github.com/suvz47/GoogleVisionAPI/blob/master/thumbnail/google-cloud-vision-api.jpg
